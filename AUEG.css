@@ -1,0 +1,32 @@
+/*
+    This is all just visual stuff. Pretty straightforward, change any colors or
+    sizes here.
+*/
+
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#sensorData, #images {
+    width: 45%;
+    padding: 2.5%;
+    border: 2px black;
+}
+#images {
+    float: right;
+}
+#sensorData {
+    float: left;
+}
+
+hr {
+    color: white;
+    border-color: white;
+    margin-top: 15px;
+}
+
+p {
+    padding-top: 0px;
+}

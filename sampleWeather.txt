@@ -1,0 +1,15 @@
+winddir=20000
+windspeedmph=1.0
+windgustmph=1.5
+windgustdir=0
+windspdmph_avg2m=0.0
+winddir_avg2m=0
+windgustmph_10m=1.8
+windgustdir_10m=0
+humidity=77.4
+tempf=40.0
+rainin=0.00
+dailyrainin=0.00
+pressure=98570.75
+light_lvl=0.00
+timestamp=20161227-21:00:15
